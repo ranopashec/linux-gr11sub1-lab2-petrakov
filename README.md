@@ -76,7 +76,6 @@ pstree -p | head -n 50
 - `/proc/<pid>/status` — информация о состоянии процесса: UID, PPID, статус, память и т.д.
 - `/proc/<pid>/fd` — список открытых файловых дескрипторов.
 
-**[ВСТАВЬТЕ СКРИНШОТ ВЫВОДА КОМАНД ДЛЯ /proc ЗДЕСЬ]**
 ![alt text](<Screenshot 2025-10-20 at 11.05.30.png>)
 ![alt text](<Screenshot 2025-10-20 at 11.05.53.png>)
 ![alt text](<Screenshot 2025-10-20 at 11.06.07.png>)
